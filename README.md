@@ -4,20 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+06-16-17
 
 ### Student Name:  
-(First and Last Name)
+Erik Wilbas
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This lesson introduces the JavaScript programming Fundamentals and the building blocks of the language
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://ewilbas.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Adding basic JavaScript to web pages
+2. Storing and tracking information with variables
+3. How to use objects to work with data
 
